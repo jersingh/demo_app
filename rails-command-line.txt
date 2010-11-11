@@ -6,3 +6,5 @@ rake db:migrate
 to undo this:
 rake db:rollback
 rails destroy scaffold Micropost
+
+rails console:
